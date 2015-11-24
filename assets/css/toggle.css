@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+}
+
+.toggle-password {
+    height:15px; /* Arbitrarily chosen */
+    margin:0;
+    padding-right: 25px; /* Makes input field
+    						end before start of
+    						password icon*/
+    width:175px; /* Arbitrarily chosen */
+}
+
+.toggle-icon {
+    position:relative; /* Positions relative to parent div */
+    top:2.5px; /* To make icon fit inside input field */
+    right:22px; /* To make icon fit inside input field */
+}
